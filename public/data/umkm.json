@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "nama": "Warung Kopi Pak Jaya",
+    "kategori": "FNB",
+    "deskripsi": "Warung kopi sederhana yang sudah berdiri sejak 1998, jadi tempat favorit warga sekitar untuk nongkrong dan berdiskusi.",
+    "alamat": "Jl. Kenanga No. 12, Banyumanik, Semarang",
+    "latitude": -7.0245,
+    "longitude": 110.347,
+    "jam_buka": "08.00-22.00",
+    "kontak": "081234567890",
+    "media_sosial": "@kopipakjaya",
+    "produk_unggulan": [
+      { "nama": "Kopi Tubruk", "foto": "/images/umkm/kopitubruk.jpg" },
+      { "nama": "Kopi Tubruk", "foto": "/images/umkm/kopitubruk.jpg" },
+      { "nama": "Kopi Tubruk", "foto": "/images/umkm/kopitubruk.jpg" },
+      { "nama": "Kopi Tubruk", "foto": "/images/umkm/kopitubruk.jpg" },
+      { "nama": "Kopi Tubruk", "foto": "/images/umkm/kopitubruk.jpg" },
+      { "nama": "Kopi Tubruk", "foto": "/images/umkm/kopitubruk.jpg" },
+      { "nama": "Kopi Tubruk", "foto": "/images/umkm/kopitubruk.jpg" },
+      { "nama": "Pisang Goreng", "foto": "/images/umkm/pisanggoreng.jpg" }
+    ],
+    "foto": ["/images/umkm/warungkopi2.jpg"],
+    "fasilitas": ["Free Wifi", "Indoor & Outdoor", "Free Charge", "Toilet"]
+  },
+  {
+    "id": 2,
+    "nama": "Dapur Mbak Rini",
+    "kategori": "FNB",
+    "deskripsi": "Usaha rumahan yang menyediakan katering nasi kotak dan lauk rumahan dengan cita rasa tradisional.",
+    "alamat": "Jl. Melati No. 4, Tembalang, Semarang",
+    "latitude": -7.0312,
+    "longitude": 110.3538,
+    "jam_buka": "07.00-20.00",
+    "kontak": "081356712345",
+    "media_sosial": "@dapurmbrini",
+    "produk_unggulan": [
+      { "nama": "Nasi Ayam", "foto": "/images/umkm/nasiayam.jpg" },
+      { "nama": "Oseng Tempe", "foto": "/images/umkm/osengtempe.jpg" },
+      { "nama": "Sayur Lodeh", "foto": "/images/umkm/sayurlodeh.jpg" }
+    ],
+    "foto": ["/images/umkm/dapurrini1.jpg"],
+    "fasilitas": ["Indoor Only", "Free Charge", "Toilet"]
+  },
+  {
+    "id": 3,
+    "nama": "Bengkel Motor Sumber Rejeki",
+    "kategori": "Jasa",
+    "deskripsi": "Melayani servis motor cepat dan ringan dengan harga terjangkau dan mekanik berpengalaman.",
+    "alamat": "Jl. Mawar No. 3, Tembalang, Semarang",
+    "latitude": -7.0298,
+    "longitude": 110.351,
+    "jam_buka": "08.00-17.00",
+    "kontak": "082134567432",
+    "produk_unggulan": [
+      { "nama": "Servis Ringan", "foto": "/images/umkm/servisringan.jpg" },
+      { "nama": "Ganti Oli", "foto": "/images/umkm/gantioli.jpg" },
+      { "nama": "Tune Up", "foto": "/images/umkm/tuneup.jpg" }
+    ],
+    "foto": ["/images/umkm/bengkel1.jpg"],
+    "fasilitas": ["Toilet", "Waiting Area", "Free Drinking Water"]
+  },
+  {
+    "id": 4,
+    "nama": "Laundry Bersih Kilat",
+    "kategori": "Jasa",
+    "deskripsi": "Layanan laundry cepat dan wangi yang melayani antar jemput untuk area sekitar kampus.",
+    "alamat": "Jl. Anggrek No. 5, Banyumanik, Semarang",
+    "latitude": -7.026,
+    "longitude": 110.3482,
+    "jam_buka": "07.00-21.00",
+    "kontak": "081276543210",
+    "produk_unggulan": [
+      { "nama": "Cuci Setrika", "foto": "/images/umkm/cucisetrika.jpg" },
+      { "nama": "Express 1 Hari", "foto": "/images/umkm/laundryexpress.jpg" }
+    ],
+    "foto": ["/images/umkm/laundry1.jpg"],
+    "fasilitas": ["Free Wifi", "Indoor Only", "Free Drinking Water"]
+  },
+  {
+    "id": 5,
+    "nama": "Toko Sari Busana",
+    "kategori": "Clothes",
+    "deskripsi": "Menjual pakaian harian dan seragam sekolah dengan harga terjangkau untuk warga sekitar.",
+    "alamat": "Jl. Pandanaran No. 45, Banyumanik, Semarang",
+    "latitude": -7.0203,
+    "longitude": 110.3495,
+    "jam_buka": "09.00-20.00",
+    "kontak": "081298776543",
+    "media_sosial": "@tokosaribusana",
+    "produk_unggulan": [
+      { "nama": "Seragam Sekolah", "foto": "/images/umkm/seragamsekolah.jpg" },
+      { "nama": "Kemeja", "foto": "/images/umkm/kemeja.jpg" },
+      { "nama": "Jilbab", "foto": "/images/umkm/jilbab.jpg" }
+    ],
+    "foto": ["/images/umkm/saribusana1.jpg"],
+    "fasilitas": ["Indoor Only", "AC", "Fitting Room"]
+  },
+  {
+    "id": 6,
+    "nama": "Fotokopi Express",
+    "kategori": "Fotocopy",
+    "deskripsi": "Jasa fotokopi, print, dan jilid cepat yang berlokasi di dekat sekolah dan kampus.",
+    "alamat": "Jl. Diponegoro No. 8, Banyumanik, Semarang",
+    "latitude": -7.0271,
+    "longitude": 110.3503,
+    "jam_buka": "08.00-21.00",
+    "kontak": "085678901234",
+    "produk_unggulan": [
+      { "nama": "Print Warna", "foto": "/images/umkm/printwarna.jpg" },
+      { "nama": "Jilid Spiral", "foto": "/images/umkm/jilidspiral.jpg" },
+      { "nama": "Laminating", "foto": "/images/umkm/laminating.jpg" }
+    ],
+    "foto": ["/images/umkm/fotokopi1.jpg"],
+    "fasilitas": ["Free Wifi", "Free Charge", "Toilet", "Waiting Area"]
+  },
+  {
+    "id": 7,
+    "nama": "Warung Makan Bu Siti",
+    "kategori": "Warung",
+    "deskripsi": "Warung makan pinggir jalan yang terkenal dengan nasi pecelnya yang pedas dan gurih.",
+    "alamat": "Jl. Kenari No. 22, Tembalang, Semarang",
+    "latitude": -7.033,
+    "longitude": 110.352,
+    "jam_buka": "06.00-16.00",
+    "kontak": "081276543890",
+    "produk_unggulan": [
+      { "nama": "Nasi Pecel", "foto": "/images/umkm/nasipecel.jpg" },
+      { "nama": "Tempe Mendoan", "foto": "/images/umkm/tempe.jpg" },
+      { "nama": "Soto Ayam", "foto": "/images/umkm/soto.jpg" }
+    ],
+    "foto": ["/images/umkm/warungbu1.jpg"],
+    "fasilitas": ["Outdoor Only", "Toilet", "Free Parking"]
+  },
+  {
+    "id": 8,
+    "nama": "Printify Studio",
+    "kategori": "Fotocopy",
+    "deskripsi": "Percetakan digital dan desain grafis yang melayani kartu nama, banner, dan brosur.",
+    "alamat": "Jl. Rajawali No. 11, Banyumanik, Semarang",
+    "latitude": -7.0285,
+    "longitude": 110.3457,
+    "jam_buka": "09.00-18.00",
+    "kontak": "085612345678",
+    "media_sosial": "@printifystudio",
+    "produk_unggulan": [
+      { "nama": "Banner", "foto": "/images/umkm/banner.jpg" },
+      { "nama": "Brosur", "foto": "/images/umkm/brosur.jpg" },
+      { "nama": "Stiker", "foto": "/images/umkm/stiker.jpg" }
+    ],
+    "foto": ["/images/umkm/printify1.jpg"],
+    "fasilitas": ["AC", "Free Wifi", "Waiting Area"]
+  },
+  {
+    "id": 9,
+    "nama": "Distro Urban Street",
+    "kategori": "Clothes",
+    "deskripsi": "Menjual kaos, hoodie, dan topi dengan desain khas anak muda lokal yang kekinian.",
+    "alamat": "Jl. Imam Bonjol No. 14, Banyumanik, Semarang",
+    "latitude": -7.022,
+    "longitude": 110.3441,
+    "jam_buka": "10.00-21.00",
+    "kontak": "085674321900",
+    "media_sosial": "@urbanstreet.distro",
+    "produk_unggulan": [
+      { "nama": "Kaos Desain Lokal", "foto": "/images/umkm/kaoslokal.jpg" },
+      { "nama": "Hoodie", "foto": "/images/umkm/hoodie.jpg" },
+      { "nama": "Topi", "foto": "/images/umkm/topi.jpg" }
+    ],
+    "foto": ["/images/umkm/urbanstreet1.jpg"],
+    "fasilitas": ["Free Wifi", "Fitting Room", "Indoor & Outdoor"]
+  },
+  {
+    "id": 10,
+    "nama": "Salon & Barbershop Aura",
+    "kategori": "Jasa",
+    "deskripsi": "Salon dan barbershop unisex yang menawarkan potongan rambut modern dengan harga bersahabat.",
+    "alamat": "Jl. Dahlia No. 7, Banyumanik, Semarang",
+    "latitude": -7.025,
+    "longitude": 110.3468,
+    "jam_buka": "09.00-20.00",
+    "kontak": "085789654321",
+    "media_sosial": "@aura.barbershop",
+    "produk_unggulan": [
+      { "nama": "Haircut Modern", "foto": "/images/umkm/haircut.jpg" },
+      { "nama": "Creambath", "foto": "/images/umkm/creambath.jpg" },
+      { "nama": "Smoothing", "foto": "/images/umkm/smoothing.jpg" }
+    ],
+    "foto": ["/images/umkm/barber1.jpg"],
+    "fasilitas": ["AC", "Toilet", "Free Wifi", "Waiting Area"]
+  }
+]
