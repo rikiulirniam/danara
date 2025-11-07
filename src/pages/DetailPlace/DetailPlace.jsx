@@ -4,13 +4,14 @@ import MapTempat from "../../components/Map";
 import Carousel from "../../components/Carousel";
 import Ratings from "../../components/Ratings";
 import RatingInput from "../../components/RatingInput";
+import { IconGuest } from "../../components/icon/Icon";
 
 export function DetailPlace(){
     const [umkm, setUmkm] = useState([]);
     const {id_tempat} = useParams()
 
     const ratingData = {
-    rating: 4.6,
+    rating: 4.4,
     totalReview: 128,
     breakdown: {
       5: 75,
@@ -99,6 +100,32 @@ export function DetailPlace(){
           <div className="review p-5">
               <RatingInput />
           </div>
+        </section>
+        <section className="reviews px-4">
+          <h1 className="py-3">Sort By</h1>
+          <div className="sort-menu flex flex-wrap gap-2">
+            <span className="bg-main-color text-white rounded-xl p-4">Most relevant</span>
+            <span className="bg-gray-200 text-main-color rounded-xl p-4">Newest</span>
+            <span className="bg-gray-200 text-main-color rounded-xl p-4">Highest</span>
+            <span className="bg-gray-200 text-main-color rounded-xl p-4">Lowest</span>
+          </div>
+
+          <article className="user-reviews py-4">
+              <div className="user-review flex items-center">
+                <div className="pfp bg-main-color rounded-full p-2">
+                  <IconGuest />
+                </div>
+                <h1 className="font-medium px-2">Sigantengdaritembalang24</h1>
+              </div>
+              <p className="text-xs py-3 text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat laudantium eligendi repellat ut vel nesciunt explicabo, quasi ducimus ex. Obcaecati tenetur praesentium ut officiis aspernatur, quis quasi atque necessitatibus ea.</p>
+              <div className="photo-review grid grid-cols-2  h-48 overflow-hidden">
+                <img src="https://placehold.co/200x200" alt="" srcset="" />
+                <div className="grid grid-rows-2 max-h-full">
+                  <img className="w-1/2" src="https://placehold.co/200x200" alt="" srcset="" />
+                  <img className="w-1/2" src="https://placehold.co/200x200" alt="" srcset="" />
+                </div>
+              </div>
+          </article>
         </section>
 
       {/* <ul>
