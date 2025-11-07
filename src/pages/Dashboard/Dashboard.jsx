@@ -5,6 +5,7 @@ import { Navbar } from "../../components/Navbar";
 import ShortByCategory from "../../components/ShortByCategory";
 import BottomBar from "../../components/BottomBar";
 
+
 export function Dashboard() {
   const [address, setAddress] = useState("Mencari lokasi...");
 
